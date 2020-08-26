@@ -1,0 +1,24 @@
+{
+  "name": "cheesbot",
+  "version": "1.0.0",
+  "description": "a modular and expandable eris.js discord bot",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "eris": "^0.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LickTheCheese/CheesBot.git"
+  },
+  "author": "LickTheCheese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LickTheCheese/CheesBot/issues"
+  },
+  "homepage": "https://github.com/LickTheCheese/CheesBot#readme"
+}
